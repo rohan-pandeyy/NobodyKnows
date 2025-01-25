@@ -1,2 +1,1 @@
-# NobodyKnows
- NobodyKnows what this game is about. Come and find out!
+Nobody Knows is a game developed by a 2nd year Computer Science student on the Unity Game Engine. There isn't any further information available regarding it.
